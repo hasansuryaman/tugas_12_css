@@ -2,4 +2,4 @@
 
 Column Count.
 
-![tugas11](screen/tugas11.png)
+![tugas11](screen/tugas12.png)
